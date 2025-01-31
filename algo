@@ -4,3 +4,6 @@ Ask him what kind of pizza he want, the size and the quantity
 Show a review of the order 
 Proceed to checkout print receipe
 Show a tracking of the order being proceed.
+If the order is wrong then proceed to a full refund
+Send a message to see if the customer wants to re-order
+Add a little text to apologize for the inconvenience 
